@@ -1,0 +1,2 @@
+[pytest11]
+pytest_ethereum = eth_web3.tools.pytest_ethereum.plugins
